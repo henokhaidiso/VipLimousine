@@ -540,6 +540,22 @@ section {
   color: #111318;
 }
 
+
+.fleet-price {
+  margin: 10px 0 14px;
+  font-size: 16px;
+  color: var(--gold);
+  font-weight: 600;
+}
+
+.fleet-price span {
+  display: block;
+  font-size: 13px;
+  color: #bbb;
+  font-weight: 400;
+}
+
+
 /* TESTIMONIALS */
 .testimonials {
   background: #f8f4ee;
